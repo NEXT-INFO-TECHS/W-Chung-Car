@@ -120,7 +120,7 @@ $(document).ready(function () {
 	// Initiate typed.js text effect (done custom for each typed text effect)
 	$(".animated-text-effect").typed({ 
 		// Enter your texts here, these texts are applied to dark homepages
-		strings: ["Awesome Ineractive Effect^", "Click on the live effect!^", "Coolest Modern HTML Theme^"], 
+		strings: ["不幸撞車後驚徨失措？^", "司機，乘客，應該點做好！^", "可以聯絡我哋！^","我哋有專業律師團隊可以免費解答你嘅問題！^"],
 		contentType: "text", 
 		typeSpeed: 30, 
 		loop: true, 
