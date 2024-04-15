@@ -147,6 +147,19 @@ a.pa-button-secondary {
 	background-color: #9300F5;
 }
 
+.accordion button {
+	color: #00f2ff;
+	text-decoration: none;
+}
+
+.accordion button:hover {
+	color: #ffffff;
+	text-decoration: none;
+}
+.card-header {
+	background-color: #2C363F;
+	border-bottom: 1px solid #525B66;
+}
 footer a:hover {
 	color: #B44AFF;
 }
